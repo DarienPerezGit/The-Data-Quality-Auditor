@@ -1,0 +1,8 @@
+id,nombre,email,ventas,fecha
+101,Juan Perez,juan@test.com,500,2024-01-15
+102,Ana Gomez,ana.gomez,1200,2024-01-16
+103,,carlos@test.com,300,2024-01-17
+101,Juan Perez,juan@test.com,500,2024-01-15
+104,Maria Lopez,maria@domain.com,-50,2024-01-18
+105,Pedro Ruiz,pedro@test.com,ABC,2024-01-19
+106,Sofia Diaz,sofia@test.com,800,2024-01-20
