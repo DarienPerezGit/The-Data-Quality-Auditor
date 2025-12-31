@@ -49,11 +49,21 @@ pip install pandas
 
 ## 🚀 Uso
 
-### Ejecución básica
+### Ejecución básica (Consola)
 
 ```bash
 python auditor.py
 ```
+
+### 🌟 Ejecución visual (Web Interface)
+
+Para una experiencia interactiva (ideal para demos):
+
+```bash
+streamlit run app.py
+```
+
+Esto abrirá una interfaz web donde puedes subir tus propios CSVs y ver los gráficos de calidad en tiempo real.
 
 ### Salida esperada
 
